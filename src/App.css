@@ -1,0 +1,20 @@
+.addcomment {
+    display: flex;
+    align-items: center;
+}
+
+.maintodo {
+    width: 600px;
+    height: 400px;
+    border: solid black;
+    margin-left: 45%;
+    margin-top: 5%;
+   
+}
+
+body{
+    background-image: url("./img/background.jpg");
+    background-size:100%;
+    background-position:top;
+    background: cover;
+}
